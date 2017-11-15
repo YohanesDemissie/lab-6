@@ -1,7 +1,6 @@
 'use strict';
 
 var firstAndPike = {
-  name: '1st And Pike',
   minCustomers: 23,
   maxCustomers: 65,
   averageCookieSale: 6.3,
@@ -18,14 +17,6 @@ var firstAndPike = {
   },
 };
 console.log(firstAndPike);
-
-
-
-
-
-
-
-
 
 var seaTacAirport = {
   minCustomers: 3,
